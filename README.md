@@ -43,6 +43,7 @@ Kernel:
 
 ##### Box blur filter
 Normalization rate = 16
+
 Kernel: 
 
 | | | |
@@ -55,6 +56,7 @@ Kernel:
 
 ##### Gaussian blur filter
 Normalization rate = 256
+
 Kernel: 
 
 | | | | | | 
@@ -69,6 +71,7 @@ Kernel:
 
 ##### Motion blur filter
 Normalization rate = 9
+
 Kernel: 
 
 | | | | | | | | | |
